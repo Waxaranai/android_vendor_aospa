@@ -1,0 +1,56 @@
+[
+    {
+        "remote": "github",
+        "repository": "paranoid-mojito/android_device_xiaomi_sweet",
+        "target_path": "device/xiaomi/sweet",
+        "revision": "topaz"
+    },
+    {
+        "remote": "github",
+        "repository": "paranoid-mojito/android_kernel_xiaomi_sweet",
+        "target_path": "kernel/xiaomi/sweet",
+        "revision": "topaz"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_hardware_xiaomi",
+        "target_path": "hardware/xiaomi",
+        "revision": "topaz"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_hardware_qcom_audio",
+        "target_path": "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision": "topaz-855"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_hardware_qcom_display",
+        "target_path": "hardware/qcom/display",
+        "revision": "topaz-855"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_hardware_qcom_media",
+        "target_path": "hardware/qcom/media",
+        "revision": "topaz-855"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_hardware_qcom_gps",
+        "target_path": "hardware/qcom/gps",
+        "revision": "sapphire-855"
+    },
+    {
+        "remote": "github",
+        "repository": "paranoid-mojito/android_vendor_xiaomi_sweet",
+        "target_path": "vendor/xiaomi/sweet",
+        "revision": "topaz"
+    },
+    {
+        "remote": "aospa",
+        "repository": "AOSPA/android_device_qcom_sepolicy_vndr",
+        "target_path": "device/qcom/sepolicy_vndr",
+        "revision": "topaz-lahaina-backup"
+    }
+]
